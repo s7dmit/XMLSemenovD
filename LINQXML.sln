@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQXML", "LINQXML\LINQXML.csproj", "{AA3A9F5F-367F-4B58-B820-404562006375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQXML22", "LINQXML22\LINQXML22.csproj", "{FFAAA640-C7D4-4390-B229-C33728394418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQXML38", "LINQXML38\LINQXML38.csproj", "{A96DDA84-F79F-493F-828C-E515F08BDBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3A9F5F-367F-4B58-B820-404562006375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3A9F5F-367F-4B58-B820-404562006375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3A9F5F-367F-4B58-B820-404562006375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3A9F5F-367F-4B58-B820-404562006375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAAA640-C7D4-4390-B229-C33728394418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAAA640-C7D4-4390-B229-C33728394418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAAA640-C7D4-4390-B229-C33728394418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAAA640-C7D4-4390-B229-C33728394418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96DDA84-F79F-493F-828C-E515F08BDBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96DDA84-F79F-493F-828C-E515F08BDBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96DDA84-F79F-493F-828C-E515F08BDBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96DDA84-F79F-493F-828C-E515F08BDBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA268C8-0E0B-4A81-BDA8-BCC0CB028A1A}
+	EndGlobalSection
+EndGlobal
